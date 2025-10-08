@@ -39,3 +39,11 @@ Exemplo de estrutura de um documento no MongoDB:
     }
   ]
 }
+```
+
+## Justificativa do Banco de Dados
+O MongoDB foi escolhido devido às seguintes vantagens:
+  - Estrutura flexível em documentos JSON, adequada para armazenar informações complexas de forma hierárquica.
+  - Permite operações rápidas de leitura e escrita.
+  - Fácil integração com Java/Spring Boot através do Spring Data MongoDB.
+  - Escalabilidade e facilidade de adaptação a mudanças nos requisitos do sistema.
